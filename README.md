@@ -9,7 +9,7 @@
 - Deliverable 1: Create a Horizontal Bar Chart
 - Deliverable 2: Create a Bubble Chart
 - Deliverable 3: Create a Gauge Chart
-- Deliverable 4: Customize the Dashboard
+- Deliverable 4: Customize the Dashboard [click to customized dashboard](ttps://dsupps.github.io/belly_button/)
 
 ### Resources:
 - Data Sources: [test_subjects_bacteria](https://github.com/DSupps/belly_button/blob/main/samples.json)
