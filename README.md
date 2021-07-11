@@ -12,7 +12,7 @@
 - Deliverable 4: Customize the Dashboard
 
 ### Resources:
-- Data Sources: [test_subjects_bacterial_info](https://github.com/DSupps/belly_button/blob/main/samples.json)
+- Data Sources: [test_subjects_bacteria](https://github.com/DSupps/belly_button/blob/main/samples.json)
 
 - Software:
     - Visual Studio Code 1.57.1
