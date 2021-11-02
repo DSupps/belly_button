@@ -1,5 +1,7 @@
 # belly_button
 
+![bacteria](https://user-images.githubusercontent.com/36451701/139773155-4df09f41-04dc-4203-a21c-b9af5d580f72.jpg)
+
 ## Challenge Overview:
 *Improbable Beef wants to manufacture synthetic beef.  In order for them to do so, they will need to locate the bacterial species that have the ability to synthize proteins that taste like beef (mmmm...yummy!).  They will need help finding these specific bacterial species.  Lab reports have shown that the bacteria can be found on the human body, specifically in the human belly button. However, not all belly buttons contain the right amount of the bacteria that Improbable Beef is looking for.*
 
