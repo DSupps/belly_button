@@ -22,8 +22,8 @@
     - MacOS Catalina Version 10.16.7
     - Python 3.8.5
     
-## Challenge Results:
+## Project Results:
 The interactive dashboard can be found here - https://dsupps.github.io/belly_button/
 
-## Challenge Summary:
+## Project Summary:
 The interactive and customized dashboard has a dropdown menu to filter test subjects.  There are three charts to visualize test subjects demographic information and what bacterial cultures live in their navel.  Hovering over the charts will also reveal more detailed information. 
