@@ -22,6 +22,7 @@
     - MacOS Catalina Version 10.16.7
     - Python 3.8.5
     - HTML/CSS
+    - JavaScript
     
 ## Project Results:
 The interactive dashboard can be found here - https://dsupps.github.io/belly_button/
