@@ -23,6 +23,7 @@
     - Python 3.8.5
     - HTML/CSS
     - JavaScript
+    - Plotly 4.11
     
 ## Project Results:
 The interactive dashboard can be found here - https://dsupps.github.io/belly_button/
