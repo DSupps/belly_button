@@ -29,7 +29,7 @@ This project focuses on building an interactive dashboard to visualize the bacte
     - Plotly 4.11
     
 ## Project Results:
-The interactive dashboard can be found here - https://dsupps.github.io/belly_button/
+The interactive dashboard can be found here -- https://dsupps.github.io/belly_button/
 
 ## Project Summary:
 The interactive and customized dashboard has a dropdown menu to filter test subjects.  There are three charts to visualize test subjects demographic information and what bacterial cultures live in their navel.  Hovering over the charts will also reveal more detailed information. 
