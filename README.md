@@ -16,7 +16,7 @@ This project focuses on building an interactive dashboard to visualize the bacte
 - Deliverable 3: Create a Gauge Chart
 - Deliverable 4: Customize the Dashboard - [click for customized dashboard](https://dsupps.github.io/belly_button/)
 
-### Resources:
+### Project Resources:
 - Data Sources: [test_subjects_bacteria](https://github.com/DSupps/belly_button/blob/main/samples.json)
 
 - Software:
