@@ -3,6 +3,9 @@
 ![bacteria](https://user-images.githubusercontent.com/36451701/139773155-4df09f41-04dc-4203-a21c-b9af5d580f72.jpg)
 
 ## Project Overview:
+This project focuses on building an interactive dashboard to visualize the bacterial species living in the navel of candidates of a research about meat protein synthesis from human bacteria.
+
+### Project Challenge:
 *Improbable Beef wants to manufacture synthetic beef.  In order for them to do so, they will need to locate the bacterial species that have the ability to synthize proteins that taste like beef (mmmm...yummy!).  They will need help finding these specific bacterial species.  Lab reports have shown that the bacteria can be found on the human body, specifically in the human belly button. However, not all belly buttons contain the right amount of the bacteria that Improbable Beef is looking for.*
 
 *To help discover which test subjects have the right amount of this bacteria, I have created an interactive dashboard. This customized dashboard allows a user to filter by individual test subject to see their demographic information and what bacterial cultures live in their navels.*
